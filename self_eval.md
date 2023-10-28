@@ -1,4 +1,4 @@
 # Self-Evaluation
 
-- Reflect on your learning and work today. What are you most proud of?
-- What is the power of using methods in our applications?
+- Reflect on your learning and work today. What are you most proud of? I am very proud of my self for realizing when i needed a break. I had alot of difficulty in final_practice.rb questions. I spent majority of my time using google and even watching youtube videos on writing methods. I started to get frustrated when time after time i would get an error message in the terminal. I would realize my frustations take a 20-30 minute break and start again. Every time i would get closer and closer until i finally got it!
+- What is the power of using methods in our applications? The power of using methods allows us to to read shorter code which makes it easier to go back and fix when we break it! You can also reuse the method multiple times so once you get it right you save alot of time in the future. 
